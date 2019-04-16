@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Softcom</string>
+    <string name="file_name">FILE NAME</string>
+    <string name="fetch_btn_string">FETCH</string>
+</resources>

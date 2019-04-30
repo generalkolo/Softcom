@@ -2,4 +2,5 @@
     <string name="app_name">Softcom</string>
     <string name="file_name">FILE NAME</string>
     <string name="fetch_btn_string">FETCH</string>
+    <string name="text_submit">Submit</string>
 </resources>

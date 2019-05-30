@@ -6,9 +6,9 @@
    "card_name":"Edet Ebenezer"
   },
   {
-    "type":"savings",
-   "card_number":"12345",
-   "expiry_date":"12/20",
-   "card_name":"Edet Ebenezer"
+    "type":"current",
+   "card_number":"67890",
+   "expiry_date":"1/22",
+   "card_name":"Ayodele Abigail"
   }
 ]

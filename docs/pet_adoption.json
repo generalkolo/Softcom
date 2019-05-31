@@ -3,12 +3,16 @@
     "type":"savings",
    "card_number":"12345",
    "expiry_date":"12/20",
-   "card_name":"Edet Ebenezer"
+   "card_name":"Edet Ebenezer",
+    "pin":"9876",
+    "account_balance":80000
   },
   {
     "type":"current",
    "card_number":"67890",
    "expiry_date":"1/22",
-   "card_name":"Ayodele Abigail"
+   "card_name":"Ayodele Abigail",
+    "pin":"1234",
+    "account_balance":120000
   }
 ]
